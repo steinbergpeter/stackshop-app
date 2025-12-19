@@ -17,7 +17,11 @@ export const Route = createRootRoute({
         content: 'width=device-width, initial-scale=1',
       },
       {
-        title: 'TanStack Start Starter',
+        title: 'StackShop',
+      },
+      {
+        name: 'description',
+        content: 'StackShop is a platform for buying and selling products.',
       },
     ],
     links: [
